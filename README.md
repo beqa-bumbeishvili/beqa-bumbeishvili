@@ -24,5 +24,4 @@ I am a **Freelance Frontend Engineer** specializing in **D3.js** and **React**. 
 #### 📬 Let's Work Together
 I am currently **open for contract work**.
 * **Portfolio:** [beqa.me](https://beqa.me)
-* **Direct Contact:** [Shoot me an email](mailto:your-email@example.com) or [Message on LinkedIn](https://linkedin.com/in/yourprofile)
-* **Fastest Response:** 💬 WhatsApp (Check my website)
+* **Direct Contact:** [Shoot me an email](mailto:your-email@example.com) or [Message on LinkedIn](https://www.linkedin.com/in/beqa-bumbeishvili/)
