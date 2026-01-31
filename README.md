@@ -10,7 +10,6 @@ I am a **Freelance Frontend Engineer** specializing in **D3.js** and **React**. 
 #### 🏆 Featured Work
 * **[ETF Insider](https://etfinsider.co)** – *Built the full portfolio analytics engine & interactive correlation matrices.*
 * **[HolonIQ](https://holoniq.com)** – *Developed market intelligence visualizations for global education data.*
-* **[The Colors of Jean Giraud](https://beqa.me)** – *Experimental creative coding & color analysis.*
 
 #### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
